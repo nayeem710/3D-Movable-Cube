@@ -1,2 +1,2 @@
 # 3D-Movable-Cube
-Dr. Mohammad Rifat Ahmmad Rashid
+Computer Graphics [ Dr. Mohammad Rifat Ahmmad Rashid ]
